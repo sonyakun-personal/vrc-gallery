@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}ホーム{% endblock %}
+
+{% block content %}
+<div class="container enter-block">
+    <div class="row enter-block">
+    {{ generate_tag_notext(images) }}
+    </div>
+</div>
+{% endblock %}
