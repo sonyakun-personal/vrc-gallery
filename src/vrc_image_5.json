@@ -1,0 +1,17 @@
+{
+    "text": "Misskey.ioのやつと違う&高画質(8K)バージョンです。",
+    "source": {
+        "type": "img",
+        "src": "images/vrc_image_5.png",
+        "name": "vrc_image_5"
+    },
+    "metadata": {
+        "world": "https://vrchat.com/home/world/wrld_1b43b12a-332c-4f7a-b64a-3f553a6d5d90",
+        "view_at_url": "https://misskey.io/notes/9raucscwf3l603pq"
+    },
+    "_extra": {
+        "low-quality": null,
+        "avatar": "Horiz"
+    },
+    "tags": ["8K"]
+}
